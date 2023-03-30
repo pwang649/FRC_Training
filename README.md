@@ -1,4 +1,4 @@
-# Robotics: from Theory to Algorithms
+# Robotics: from Theory to Applications
 
 
 ## Course Syllabus
